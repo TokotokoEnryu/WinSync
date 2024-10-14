@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinSync (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinSync (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
